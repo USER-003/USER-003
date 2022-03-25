@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jefferson Esperaanza
+- 👋 Hi, I’m Jefferson Esperanza
 - 👀 I’m interested in programming, nature and music.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: jefferson.esperanza.03@gmail.com
