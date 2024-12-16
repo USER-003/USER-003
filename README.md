@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jefferson Esperanza
 - 👀 I’m interested in programming, nature and music.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning ReactJS, ExpressJS, NodeJS, MongoDB and PostgreSQL.
 - 📫 How to reach me: jefferson.esperanza.03@gmail.com
 
 <!---
